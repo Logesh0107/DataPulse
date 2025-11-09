@@ -25,6 +25,16 @@ Live Deployment: [https://datapulse.vercel.app](https://datapulse.vercel.app)
 
 ---
 
+## Project Screenshots
+
+<p align="center">
+  <img src="assets/cli.png" alt="Command Line" width="48%" />
+  <img src="assets/webpage.png" alt="Webpage" width="48%" />
+</p>
+
+**Figure 1:** Working of the DataPulse dashboard displaying real-time Bitcoin analytics.
+
+
 ## Technology Stack
 
 - **Framework:** Next.js 14 (TypeScript)  
@@ -53,4 +63,5 @@ git clone https://github.com/YOUR-USERNAME/DataPulse.git
 cd DataPulse
 npm install
 npm run dev
+
 
