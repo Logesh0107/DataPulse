@@ -20,7 +20,7 @@ The application is built with **Next.js** and **TypeScript**, rendering live pri
 ---
 
 ## Preview
-
+Link : http://localhost:3000/dashboard
 Live Deployment: [https://datapulse.vercel.app](https://datapulse.vercel.app)
 
 ---
@@ -53,3 +53,4 @@ git clone https://github.com/YOUR-USERNAME/DataPulse.git
 cd DataPulse
 npm install
 npm run dev
+
